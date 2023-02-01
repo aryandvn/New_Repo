@@ -1,10 +1,6 @@
-// taking kilometers input from the user
-const kilometers = prompt("Enter value in kilometers: ")
+function Addition(){
 
-// conversion factor
-const factor = 0.621371
+    console.log("Adding a Sum"),
+    console.log("Subtracting the Difference")
 
-// calculate miles
-const miles = kilometers * factor
-
-console.log(`${kilometers} kilometers is equal to ${miles} miles.`); 
+}
