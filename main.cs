@@ -4,8 +4,6 @@ DateTime dt1 = new DateTime();
 //assigns year, month, day
 DateTime dt2 = new DateTime(2015, 12, 31); 
 
-//assigns year, month, day, hour, min, seconds
-DateTime dt3 = new DateTime(2015, 12, 31, 5, 10, 20);
  
 //assigns year, month, day, hour, min, seconds, UTC timezone
 DateTime dt4 = new DateTime(2015, 12, 31, 5, 10, 20, DateTimeKind.Utc);
