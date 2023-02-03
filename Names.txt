@@ -1,1 +1,11 @@
-Marco, Alessandro, Giuseppe, Flavio, Luca, Giovanni, Stefano, Angelo, Francesco, Mario, Luigi.
+Marco, 
+Alessandro, 
+Giuseppe, 
+Flavio, 
+Luca, 
+Giovanni, 
+Stefano, 
+Angelo, 
+Francesco, 
+Mario, 
+Luigi.
